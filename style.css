@@ -1,0 +1,116 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: Arial, sans-serif;
+    box-sizing: border-box;
+}
+
+.box-1{
+    width: 300px;
+    text-align: center;
+    background-color: cadetblue;
+    font-size: 50px;
+    padding: 20px 20px 15px 12px;
+    margin-top: 20px;
+    border: 3px solid crimson;
+    border-radius: 20px;
+    transition: 0.2s;
+    margin:auto;
+}
+
+.box-1:hover{
+    transform: rotate(20deg);
+    background-color: rebeccapurple;
+    border: 3px solid navy;
+    font-family: serif;
+    color: white;
+}
+
+
+header{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+header p{
+    margin-top: 20px;
+}
+
+nav ul li{
+    display: inline;
+}
+
+nav ul{
+    list-style: none;
+    text-align: center;
+    padding: 10px;
+    margin: 0px;
+    background-color: #555;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: white;
+    padding: 5px 10px;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+nav ul li a:hover{
+    background-color: white;
+    color: #555;
+}
+
+main{
+    background-color: white;
+    padding: 20px;
+}
+
+main section{
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    
+}
+
+main section p{
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+main article{
+    margin-bottom: 20px;
+    padding: 20px;
+    background-color: #f9f9f9;
+    
+}
+
+main article p{
+    margin-top: 20px;
+    margin-left: 0px;
+    margin-bottom: 10px;
+}
+
+main aside{
+    padding: 20px;
+    background-color: #f0f0f0;
+    
+}
+
+main aside ul{
+    margin-top: 10px;
+    margin-left: 40px;
+}   
+
+main footer{
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+main footer p{
+    padding: 5px;
+}
