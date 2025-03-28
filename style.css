@@ -67,50 +67,50 @@ main{
     padding: 20px;
 }
 
-main section{
+section{
     margin-bottom: 20px;
     padding: 20px;
     background-color: #f9f9f9;
     
 }
 
-main section p{
+section p{
     margin-top: 20px;
     margin-left: 0px;
     margin-bottom: 10px;
 }
 
-main article{
+article{
     margin-bottom: 20px;
     padding: 20px;
     background-color: #f9f9f9;
     
 }
 
-main article p{
+article p{
     margin-top: 20px;
     margin-left: 0px;
     margin-bottom: 10px;
 }
 
-main aside{
+aside{
     padding: 20px;
     background-color: #f0f0f0;
     
 }
 
-main aside ul{
+aside ul{
     margin-top: 10px;
     margin-left: 40px;
 }   
 
-main footer{
+footer{
     background-color: #333;
     color: white;
     text-align: center;
     padding: 20px;
 }
 
-main footer p{
+footer p{
     padding: 5px;
 }
