@@ -19,7 +19,7 @@
 }
 
 .box-1:hover{
-    transform: rotate(20deg);
+    transform: rotate(15deg);
     background-color: rebeccapurple;
     border: 3px solid navy;
     font-family: serif;
@@ -114,3 +114,5 @@ main footer{
 main footer p{
     padding: 5px;
 }
+
+
