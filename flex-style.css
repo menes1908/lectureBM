@@ -33,5 +33,5 @@ section{
 }
 .flex-items-3{
     order: 0;
-    
+    flex: 1;
 }
